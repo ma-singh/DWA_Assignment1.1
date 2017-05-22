@@ -1,4 +1,4 @@
-##Preparing a Server
+## Preparing a Server
 #### Prerequisites
 
 To begin with, you should have a non-root user account on the server with ```sudo``` privileges
@@ -38,7 +38,7 @@ We haven't set a root password yet, so press *enter*, and then press *y* to set 
 
 > Reload privilege tables now? **yes**
 
-###Install PHP
+### Install PHP
 
 The next step is to install **PHP7** and some of its extensions. Begin by installing PHP with: 
 
